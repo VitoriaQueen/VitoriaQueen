@@ -12,8 +12,6 @@ Here are some ideas to get you started:-->
 
 🖥️💻📱 I’m currently learning front-end development with Code Kentucky
 
-🧐 I’m looking for an entry position in software development
-
 ⚡ Fun fact: I love 🐱s & 🐶s 
 
 <br><br>
