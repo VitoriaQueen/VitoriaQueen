@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/VitoriaQueen/a5e43d0418ed88764e76f2fc9995846d/raw/130075fc29b79a15d186ac08bd60dbe5fe9e0eed/githubcard.svg"/>
-<h1 align="left">Hello there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Vitoria Oliveira</h1>
+<h1 align="left">Hello there🙃 I'm Vitoria Oliveira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VitoriaQueen&color=green" alt="Profile views" /> </p>
 
 
