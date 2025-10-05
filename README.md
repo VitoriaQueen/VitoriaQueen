@@ -8,9 +8,11 @@
 
 Here are some ideas to get you started:-->
 
-🤓 I'm a software development professional in development (pun intended 🙃)
+🤓 I'm an aspiring cyber security professional.
 
-🖥️💻📱 I’m currently learning front-end development with Code Kentucky
+🖥️💻📱 Currently, I am learning about the intricacies of computer networks and I am studying for the CCNA exam.
+direction
+➡️​When I acquired my Bachelor´s degree in IT, I thought about pursuing a career in software development👩🏽‍💻​❌, but soon after I decided to learn cybersecurity🔐​​✅​
 
 ⚡ Fun fact: I love 🐱s & 🐶s 
 
