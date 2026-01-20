@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 🤓 I'm an aspiring cyber security professional.
 
 🖥️💻📱 Currently, I am learning about the intricacies of computer networks and I am studying for the CCNA exam.
-➡️​When I acquired my Bachelor´s degree in IT, I thought about pursuing a career in software development👩🏽‍💻​❌, but soon after I decided to learn cybersecurity🔐​​✅​
+➡️​While I acquiring my Bachelor´s degree in I.T., I first only thought about pursuing a career in software development👩🏽‍💻​. Now I am also interested in learning cybersecurity🔐, cloud computing☁️, and artificial intelligence🤖​​✅​
 
 ⚡ Fun fact: I love 🐱s & 🐶s 
 
