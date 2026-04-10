@@ -34,11 +34,19 @@ Here are some ideas to get you started:-->
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=vitoriaqueen&show_icons=true&theme=vision-friendly-dark" alt="vitoriaqueen's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaqueen&layout=compact&theme=vision-friendly-dark"alt="mvitoriaqueen's most languages"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vitoriaqueen&theme=dark&hide_border=true" />
 </p>
 <br><br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoriaqueen&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitoriaqueen&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitoriaqueen&theme=github_dark" width="48%" />
+</p>
 
 ## &nbsp;Social Links
 
