@@ -28,16 +28,9 @@ Here are some ideas to get you started:-->
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-.NET-navy)&nbsp;
 
-
-
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vitoriaqueen&theme=dark&hide_border=true" />
-</p>
-<br><br>
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitoriaqueen&theme=github_dark" />
@@ -47,6 +40,7 @@ Here are some ideas to get you started:-->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitoriaqueen&theme=github_dark" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitoriaqueen&theme=github_dark" width="48%" />
 </p>
+
 
 ## &nbsp;Social Links
 
