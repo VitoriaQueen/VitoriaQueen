@@ -10,8 +10,9 @@ Here are some ideas to get you started:-->
 
 🤓 I'm an aspiring cyber security professional.
 
-🖥️💻📱 Currently, I am learning about the intricacies of computer networks and I am studying for the CCNA exam.
-➡️​While I acquiring my Bachelor´s degree in I.T., I first only thought about pursuing a career in software development👩🏽‍💻​. Now I am also interested in learning cybersecurity🔐, cloud computing☁️, and artificial intelligence🤖​​✅​
+🖥️💻📱 
+➡️​I am interested in learning about cybersecurity🔐, cloud computing☁️, and artificial intelligence🤖
+and platforms that can facilitate our daily work and everyday lives. ✅​
 
 ⚡ Fun fact: I love 🐱s & 🐶s 
 
